@@ -41,7 +41,7 @@ flowchart LR
 | Console | React 18, TypeScript, Vite, TanStack Query; Hono BFF that holds no server key |
 | Methods | DDD for the model, BDD (Gherkin) for behaviour, TDD for every change |
 
-## Documentation
+## Documentation (collaborator limited)
 
 Design documents live in `.docs/`, which is kept locally and not versioned; the links below work in a maintainer's checkout. User-facing documentation moves to `docs/` (English and Traditional Chinese) with the first release. Start at the [documentation index](.docs/README.md).
 
