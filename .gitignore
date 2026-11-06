@@ -26,3 +26,4 @@ rustc-ice-*.txt
 # Internal design documents (not versioned)
 .docs/
 .remember/
+.refs/
